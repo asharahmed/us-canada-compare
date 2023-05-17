@@ -2,8 +2,6 @@
 
 ![Comparison Diagram](https://showme.redstarplugin.com/s/fPqwWkpk)
 
-[You can edit this diagram online if you want to make any changes.](https://showme.redstarplugin.com/s/y32L7anT)
-
 ## Canada
 
 In Canada, the adoption of Zero Trust architecture is still in its early stages. The Canadian Centre for Cyber Security (CCCS) has recognized the importance of Zero Trust and has started to provide guidance on its implementation. However, the adoption across the Canadian public sector varies, with some organizations further along than others. The CCCS is working to promote the adoption of Zero Trust and to provide the necessary support and resources.
