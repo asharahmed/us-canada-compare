@@ -1,4 +1,4 @@
-# Zero Trust Security Model - ITSAP.10.008
+# Zero Trust Security Model - ITSAP.10.008 Summary
 
 ![Zero Trust Components](https://showme.redstarplugin.com/s/EWyt4Xik)
 
