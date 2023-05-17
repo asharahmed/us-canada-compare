@@ -2,9 +2,13 @@
 
 ![Zero Trust Components](https://showme.redstarplugin.com/s/EWyt4Xik)
 
+## Introduction
+
+Zero Trust (ZT) is a security model that is gaining traction as organizations undergo digital transformation, adopt cloud-based technologies, and embrace remote/hybrid work. The traditional security model, which focused on perimeter defense and implicitly trusted anyone inside the corporate network, is no longer sufficient to protect internal networks and data. This document provides information on Zero Trust as a model to address the modern challenges of securing remote workers, protecting hybrid cloud environments, and defending against cyber security threats.
+
 ## What is Zero Trust?
 
-Zero Trust (ZT) is a security framework for protecting infrastructure and data. Its central tenet is that no subject (application, user, or device) in an information system is trusted by default. Trust must be re-assessed and verified every time a subject requests access to a new resource.
+Zero Trust (ZT) is not a single product, technology, or architecture layer. Rather, it represents a security framework for protecting infrastructure and data. The central tenet of ZT is that no subject (application, user, or device) in an information system is trusted by default. Trust must be re-assessed and verified every time a subject requests access to a new resource. The degree of access provided is dynamically adjusted based on the level of trust established with the subject. ZT involves adopting a new mindset to security by always assuming a breach and focusing on resource protection (e.g. services and data).
 
 ## The Government of Canada's Zero Trust Security Framework
 
@@ -33,11 +37,11 @@ Zero Trust offers several benefits, including increased network security, reduce
 
 ## Challenges with Zero Trust
 
-Implementing Zero Trust can pose several challenges, including increased time and effort to authenticate every user and device, increased organizational focus and commitment, and the potential for being locked into a long-term commitment with cloud providers’ proprietary systems.
+Implementing Zero Trust can pose several challenges, including increased time and effortto authenticate every user and device, increased organizational focus and commitment, and the potential for being locked into a long-term commitment with cloud providers’ proprietary systems.
 
 ## Transitioning to a Zero Trust Security Model
 
-To transition to a Zero Trust security model, organizations can enforce strong MFA, grant access based on user and device information, employ just-in-time (JIT) and just-enough access(JEA) risk-based adaptive policies, and use dedicated devices for sensitive tasks.
+To transition to a Zero Trust security model, organizations can enforce strong MFA, grant access based on user and device information, employ just-in-time (JIT) and just-enough access (JEA) risk-based adaptive policies, and use dedicated devices for sensitive tasks.
 
 ## Further Reading
 
@@ -48,3 +52,5 @@ For more information on Zero Trust architecture, frameworks, and guidelines, con
 - [CISA’s Zero Trust Maturity Model](https://www.cisa.gov/zero-trust)
 - [National Cyber Security Centre—UK, "Zero trust architecture design principles"](https://www.ncsc.gov.uk/guidance/zero-trust-architecture-design-principles)
 - [Australian Cyber Security Centre Australia - Essential Eight Maturity Model](https://www.cyber.gov.au/acsc/view-all-content/publications/essential-eight-maturity-model)
+
+This markdown file provides a detailed summary of the ITSAP.10.008 guidance on the Zero Trust security model. It includes an explanation of what Zero Trust is, the components of the Zero Trust model, the benefits and challenges of implementing Zero Trust, and steps for transitioning to a Zero Trust security model. It also includes links to further reading on Zero Trust.
