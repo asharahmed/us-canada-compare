@@ -2,8 +2,6 @@
 
 ![Zero Trust Components](https://showme.redstarplugin.com/s/EWyt4Xik)
 
-[You can edit this diagram online if you want to make any changes.](https://showme.redstarplugin.com/s/EKj6qz8C)
-
 ## What is Zero Trust?
 
 Zero Trust (ZT) is a security framework for protecting infrastructure and data. Its central tenet is that no subject (application, user, or device) in an information system is trusted by default. Trust must be re-assessed and verified every time a subject requests access to a new resource.
